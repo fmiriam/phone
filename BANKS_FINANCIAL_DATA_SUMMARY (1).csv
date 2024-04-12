@@ -1,0 +1,451 @@
+﻿Description,Year,Bank,Amount,Type
+Interest Income,2018,KCB,66280,Income Statement
+Total Interest Expense,2018,KCB,17450,Income Statement
+Net Interest Income,2018,KCB,48830,Income Statement
+Non-Interest Income,2018,KCB,23802,Income Statement
+Non-Interest Expense,2018,KCB,34931,Income Statement
+Operating Income,2018,KCB,34357,Income Statement
+Income Taxes,2018,KCB,9864,Income Statement
+Consolidated Net Income,2018,KCB,23995,Income Statement
+Basic Shares Outstanding,2018,KCB,3066,Income Statement
+Diluted Shares Outstanding,2018,KCB,3066,Income Statement
+Interest Income,2019,KCB,79644,Income Statement
+Total Interest Expense,2019,KCB,18684,Income Statement
+Net Interest Income,2019,KCB,60960,Income Statement
+Non-Interest Income,2019,KCB,23811,Income Statement
+Non-Interest Expense,2019,KCB,44068,Income Statement
+Operating Income,2019,KCB,36739,Income Statement
+Income Taxes,2019,KCB,11732,Income Statement
+Consolidated Net Income,2019,KCB,25165,Income Statement
+Basic Shares Outstanding,2019,KCB,3213,Income Statement
+Diluted Shares Outstanding,2019,KCB,3213,Income Statement
+Interest Income,2020,KCB,96261,Income Statement
+Total Interest Expense,2020,KCB,21209,Income Statement
+Net Interest Income,2020,KCB,75052,Income Statement
+Non-Interest Income,2020,KCB,21144,Income Statement
+Non-Interest Expense,2020,KCB,43066,Income Statement
+Operating Income,2020,KCB,25621,Income Statement
+Income Taxes,2020,KCB,6115,Income Statement
+Consolidated Net Income,2020,KCB,19604,Income Statement
+Basic Shares Outstanding,2020,KCB,3213,Income Statement
+Diluted Shares Outstanding,2020,KCB,3213,Income Statement
+Interest Income,2021,KCB,114826,Income Statement
+Total Interest Expense,2021,KCB,24463,Income Statement
+Net Interest Income,2021,KCB,90363,Income Statement
+Non-Interest Income,2021,KCB,19780,Income Statement
+Non-Interest Expense,2021,KCB,49295,Income Statement
+Operating Income,2021,KCB,46850,Income Statement
+Income Taxes,2021,KCB,13642,Income Statement
+Consolidated Net Income,2021,KCB,34173,Income Statement
+Basic Shares Outstanding,2021,KCB,3213,Income Statement
+Diluted Shares Outstanding,2021,KCB,3213,Income Statement
+Interest Income,2022,KCB,132003,Income Statement
+Total Interest Expense,2022,KCB,31098,Income Statement
+Net Interest Income,2022,KCB,100905,Income Statement
+Non-Interest Income,2022,KCB,30133,Income Statement
+Non-Interest Expense,2022,KCB,63716,Income Statement
+Operating Income,2022,KCB,57022,Income Statement
+Income Taxes,2022,KCB,16494,Income Statement
+Consolidated Net Income,2022,KCB,40837,Income Statement
+Basic Shares Outstanding,2022,KCB,3213,Income Statement
+Diluted Shares Outstanding,2022,KCB,3213,Income Statement
+Interest Income,2018,NCBA,21000,Income Statement
+Total Interest Expense,2018,NCBA,8716,Income Statement
+Net Interest Income,2018,NCBA,12283,Income Statement
+Non-Interest Income,2018,NCBA,3917,Income Statement
+Non-Interest Expense,2018,NCBA,7044,Income Statement
+Operating Income,2018,NCBA,5820,Income Statement
+Income Taxes,2018,NCBA,1594,Income Statement
+Consolidated Net Income,2018,NCBA,4228,Income Statement
+Basic Shares Outstanding,2018,NCBA,774,Income Statement
+Diluted Shares Outstanding,2018,NCBA,774,Income Statement
+Interest Income,2019,NCBA,34046,Income Statement
+Total Interest Expense,2019,NCBA,12509,Income Statement
+Net Interest Income,2019,NCBA,21537,Income Statement
+Non-Interest Income,2019,NCBA,6662,Income Statement
+Non-Interest Expense,2019,NCBA,14820,Income Statement
+Operating Income,2019,NCBA,7744,Income Statement
+Income Taxes,2019,NCBA,3472,Income Statement
+Consolidated Net Income,2019,NCBA,7842,Income Statement
+Basic Shares Outstanding,2019,NCBA,993,Income Statement
+Diluted Shares Outstanding,2019,NCBA,993,Income Statement
+Interest Income,2020,NCBA,55084,Income Statement
+Total Interest Expense,2020,NCBA,19075,Income Statement
+Net Interest Income,2020,NCBA,36009,Income Statement
+Non-Interest Income,2020,NCBA,9931,Income Statement
+Non-Interest Expense,2020,NCBA,19665,Income Statement
+Operating Income,2020,NCBA,6181,Income Statement
+Income Taxes,2020,NCBA,411,Income Statement
+Consolidated Net Income,2020,NCBA,4571,Income Statement
+Basic Shares Outstanding,2020,NCBA,1648,Income Statement
+Diluted Shares Outstanding,2020,NCBA,1648,Income Statement
+Interest Income,2021,NCBA,57303,Income Statement
+Total Interest Expense,2021,NCBA,19477,Income Statement
+Net Interest Income,2021,NCBA,37825,Income Statement
+Non-Interest Income,2021,NCBA,10669,Income Statement
+Non-Interest Expense,2021,NCBA,22380,Income Statement
+Operating Income,2021,NCBA,14904,Income Statement
+Income Taxes,2021,NCBA,4811,Income Statement
+Consolidated Net Income,2021,NCBA,10224,Income Statement
+Basic Shares Outstanding,2021,NCBA,1648,Income Statement
+Diluted Shares Outstanding,2021,NCBA,1648,Income Statement
+Interest Income,2022,NCBA,64112,Income Statement
+Total Interest Expense,2022,NCBA,21726,Income Statement
+Net Interest Income,2022,NCBA,42387,Income Statement
+Non-Interest Income,2022,NCBA,18133,Income Statement
+Non-Interest Expense,2022,NCBA,25587,Income Statement
+Operating Income,2022,NCBA,22467,Income Statement
+Income Taxes,2022,NCBA,8714,Income Statement
+Consolidated Net Income,2022,NCBA,13778,Income Statement
+Basic Shares Outstanding,2022,NCBA,1648,Income Statement
+Diluted Shares Outstanding,2022,NCBA,1648,Income Statement
+Interest Income,2018,EQUITY,54264,Income Statement
+Total Interest Expense,2018,EQUITY,11808,Income Statement
+Net Interest Income,2018,EQUITY,42456,Income Statement
+Non-Interest Income,2018,EQUITY,24038,Income Statement
+Non-Interest Expense,2018,EQUITY,31487,Income Statement
+Operating Income,2018,EQUITY,28691,Income Statement
+Income Taxes,2018,EQUITY,8639,Income Statement
+Consolidated Net Income,2018,EQUITY,19824,Income Statement
+Basic Shares Outstanding,2018,EQUITY,3774,Income Statement
+Diluted Shares Outstanding,2018,EQUITY,3774,Income Statement
+Interest Income,2019,EQUITY,65320,Income Statement
+Total Interest Expense,2019,EQUITY,14740,Income Statement
+Net Interest Income,2019,EQUITY,50580,Income Statement
+Non-Interest Income,2019,EQUITY,24333,Income Statement
+Non-Interest Expense,2019,EQUITY,36043,Income Statement
+Operating Income,2019,EQUITY,32228,Income Statement
+Income Taxes,2019,EQUITY,8917,Income Statement
+Consolidated Net Income,2019,EQUITY,22561,Income Statement
+Basic Shares Outstanding,2019,EQUITY,3774,Income Statement
+Diluted Shares Outstanding,2019,EQUITY,3774,Income Statement
+Interest Income,2020,EQUITY,80386,Income Statement
+Total Interest Expense,2020,EQUITY,18616,Income Statement
+Net Interest Income,2020,EQUITY,61770,Income Statement
+Non-Interest Income,2020,EQUITY,31114,Income Statement
+Non-Interest Expense,2020,EQUITY,47382,Income Statement
+Operating Income,2020,EQUITY,21920,Income Statement
+Income Taxes,2020,EQUITY,2070,Income Statement
+Consolidated Net Income,2020,EQUITY,20100,Income Statement
+Basic Shares Outstanding,2020,EQUITY,3774,Income Statement
+Diluted Shares Outstanding,2020,EQUITY,3774,Income Statement
+Interest Income,2021,EQUITY,102065,Income Statement
+Total Interest Expense,2021,EQUITY,25534,Income Statement
+Net Interest Income,2021,EQUITY,76531,Income Statement
+Non-Interest Income,2021,EQUITY,35417,Income Statement
+Non-Interest Expense,2021,EQUITY,54818,Income Statement
+Operating Income,2021,EQUITY,51376,Income Statement
+Income Taxes,2021,EQUITY,11809,Income Statement
+Consolidated Net Income,2021,EQUITY,40072,Income Statement
+Basic Shares Outstanding,2021,EQUITY,3774,Income Statement
+Diluted Shares Outstanding,2021,EQUITY,3774,Income Statement
+Interest Income,2022,EQUITY,128528,Income Statement
+Total Interest Expense,2022,EQUITY,33635,Income Statement
+Net Interest Income,2022,EQUITY,94893,Income Statement
+Non-Interest Income,2022,EQUITY,49249,Income Statement
+Non-Interest Expense,2022,EQUITY,71463,Income Statement
+Operating Income,2022,EQUITY,59068,Income Statement
+Income Taxes,2022,EQUITY,13741,Income Statement
+Consolidated Net Income,2022,EQUITY,46103,Income Statement
+Basic Shares Outstanding,2022,EQUITY,3774,Income Statement
+Diluted Shares Outstanding,2022,EQUITY,3774,Income Statement
+Total Cash & Due from Banks,2018,EQUITY,55919,Balance Sheet
+Investments - Total,2018,EQUITY,161177,Balance Sheet
+Trading Account Securities,2018,EQUITY,0,Balance Sheet
+Treasury Securities,2018,EQUITY,160952,Balance Sheet
+Other Securities,2018,EQUITY,0,Balance Sheet
+Net Loans,2018,EQUITY,317676,Balance Sheet
+Commercial & Industrial Loans,2018,EQUITY,0,Balance Sheet
+Consumer & Installment Loans,2018,EQUITY,311619,Balance Sheet
+Interbank Loans,2018,EQUITY,20449,Balance Sheet
+Real Estate Mortgage Loans,2018,EQUITY,0,Balance Sheet
+Unspecified/Other Loans,2018,EQUITY,5091,Balance Sheet
+Loan Loss Allowances (Reserves),2018,EQUITY,-19483,Balance Sheet
+Investment in Unconsolidated Subs.,2018,EQUITY,0,Balance Sheet
+Real Estate Other Than Bank Premises,2018,EQUITY,0,Balance Sheet
+"Net Property, Plant & Equipment",2018,EQUITY,10276,Balance Sheet
+Other Assets (Including Intangibles),2018,EQUITY,22219,Balance Sheet
+Other Assets,2018,EQUITY,11753,Balance Sheet
+Intangible Assets,2018,EQUITY,10466,Balance Sheet
+Deferred Charges,2018,EQUITY,3880,Balance Sheet
+Total Assets,2018,EQUITY,573384,Balance Sheet
+Total Cash & Due from Banks,2019,EQUITY,73336,Balance Sheet
+Investments - Total,2019,EQUITY,172680,Balance Sheet
+Trading Account Securities,2019,EQUITY,0,Balance Sheet
+Treasury Securities,2019,EQUITY,172208,Balance Sheet
+Other Securities,2019,EQUITY,0,Balance Sheet
+Net Loans,2019,EQUITY,381321,Balance Sheet
+Commercial & Industrial Loans,2019,EQUITY,0,Balance Sheet
+Consumer & Installment Loans,2019,EQUITY,385108,Balance Sheet
+Interbank Loans,2019,EQUITY,14881,Balance Sheet
+Real Estate Mortgage Loans,2019,EQUITY,0,Balance Sheet
+Unspecified/Other Loans,2019,EQUITY,4067,Balance Sheet
+Loan Loss Allowances (Reserves),2019,EQUITY,-22735,Balance Sheet
+Investment in Unconsolidated Subs.,2019,EQUITY,0,Balance Sheet
+Real Estate Other Than Bank Premises,2019,EQUITY,0,Balance Sheet
+"Net Property, Plant & Equipment",2019,EQUITY,18373,Balance Sheet
+Other Assets (Including Intangibles),2019,EQUITY,21480,Balance Sheet
+Other Assets,2019,EQUITY,11133,Balance Sheet
+Intangible Assets,2019,EQUITY,10347,Balance Sheet
+Deferred Charges,2019,EQUITY,4387,Balance Sheet
+Total Assets,2019,EQUITY,673682,Balance Sheet
+Total Cash & Due from Banks,2020,EQUITY,156082,Balance Sheet
+Investments - Total,2020,EQUITY,217846,Balance Sheet
+Trading Account Securities,2020,EQUITY,0,Balance Sheet
+Treasury Securities,2020,EQUITY,217408,Balance Sheet
+Other Securities,2020,EQUITY,0,Balance Sheet
+Net Loans,2020,EQUITY,571898,Balance Sheet
+Commercial & Industrial Loans,2020,EQUITY,0,Balance Sheet
+Consumer & Installment Loans,2020,EQUITY,524585,Balance Sheet
+Interbank Loans,2020,EQUITY,94051,Balance Sheet
+Real Estate Mortgage Loans,2020,EQUITY,0,Balance Sheet
+Unspecified/Other Loans,2020,EQUITY,1266,Balance Sheet
+Loan Loss Allowances (Reserves),2020,EQUITY,-48004,Balance Sheet
+Investment in Unconsolidated Subs.,2020,EQUITY,0,Balance Sheet
+Real Estate Other Than Bank Premises,2020,EQUITY,5576,Balance Sheet
+"Net Property, Plant & Equipment",2020,EQUITY,21994,Balance Sheet
+Other Assets (Including Intangibles),2020,EQUITY,28490,Balance Sheet
+Other Assets,2020,EQUITY,16899,Balance Sheet
+Intangible Assets,2020,EQUITY,11591,Balance Sheet
+Deferred Charges,2020,EQUITY,6371,Balance Sheet
+Total Assets,2020,EQUITY,1015093,Balance Sheet
+Total Cash & Due from Banks,2021,EQUITY,175655,Balance Sheet
+Investments - Total,2021,EQUITY,394414,Balance Sheet
+Trading Account Securities,2021,EQUITY,0,Balance Sheet
+Treasury Securities,2021,EQUITY,394101,Balance Sheet
+Other Securities,2021,EQUITY,0,Balance Sheet
+Net Loans,2021,EQUITY,657314,Balance Sheet
+Commercial & Industrial Loans,2021,EQUITY,0,Balance Sheet
+Consumer & Installment Loans,2021,EQUITY,632912,Balance Sheet
+Interbank Loans,2021,EQUITY,69539,Balance Sheet
+Real Estate Mortgage Loans,2021,EQUITY,0,Balance Sheet
+Unspecified/Other Loans,2021,EQUITY,1305,Balance Sheet
+Loan Loss Allowances (Reserves),2021,EQUITY,-46442,Balance Sheet
+Investment in Unconsolidated Subs.,2021,EQUITY,0,Balance Sheet
+Real Estate Other Than Bank Premises,2021,EQUITY,5581,Balance Sheet
+"Net Property, Plant & Equipment",2021,EQUITY,23290,Balance Sheet
+Other Assets (Including Intangibles),2021,EQUITY,33720,Balance Sheet
+Other Assets,2021,EQUITY,20917,Balance Sheet
+Intangible Assets,2021,EQUITY,12803,Balance Sheet
+Deferred Charges,2021,EQUITY,9166,Balance Sheet
+Total Assets,2021,EQUITY,1304914,Balance Sheet
+Total Cash & Due from Banks,2022,EQUITY,187781,Balance Sheet
+Investments - Total,2022,EQUITY,394857,Balance Sheet
+Trading Account Securities,2022,EQUITY,0,Balance Sheet
+Treasury Securities,2022,EQUITY,393984,Balance Sheet
+Other Securities,2022,EQUITY,0,Balance Sheet
+Net Loans,2022,EQUITY,753633,Balance Sheet
+Commercial & Industrial Loans,2022,EQUITY,0,Balance Sheet
+Consumer & Installment Loans,2022,EQUITY,755359,Balance Sheet
+Interbank Loans,2022,EQUITY,47045,Balance Sheet
+Real Estate Mortgage Loans,2022,EQUITY,0,Balance Sheet
+Unspecified/Other Loans,2022,EQUITY,1419,Balance Sheet
+Loan Loss Allowances (Reserves),2022,EQUITY,-50190,Balance Sheet
+Investment in Unconsolidated Subs.,2022,EQUITY,0,Balance Sheet
+Real Estate Other Than Bank Premises,2022,EQUITY,6115,Balance Sheet
+"Net Property, Plant & Equipment",2022,EQUITY,27072,Balance Sheet
+Other Assets (Including Intangibles),2022,EQUITY,50308,Balance Sheet
+Other Assets,2022,EQUITY,35567,Balance Sheet
+Intangible Assets,2022,EQUITY,14741,Balance Sheet
+Deferred Charges,2022,EQUITY,13989,Balance Sheet
+Total Assets,2022,EQUITY,1447010,Balance Sheet
+Total Cash & Due from Banks,2018,NCBA,12356,Balance Sheet
+Investments - Total,2018,NCBA,63178,Balance Sheet
+Trading Account Securities,2018,NCBA,0,Balance Sheet
+Treasury Securities,2018,NCBA,61706,Balance Sheet
+Other Securities,2018,NCBA,1310,Balance Sheet
+Net Loans,2018,NCBA,122091,Balance Sheet
+Commercial & Industrial Loans,2018,NCBA,87507,Balance Sheet
+Consumer & Installment Loans,2018,NCBA,0,Balance Sheet
+Interbank Loans,2018,NCBA,5238,Balance Sheet
+Real Estate Mortgage Loans,2018,NCBA,0,Balance Sheet
+Unspecified/Other Loans,2018,NCBA,11979,Balance Sheet
+Loan Loss Allowances (Reserves),2018,NCBA,-10224,Balance Sheet
+Investment in Unconsolidated Subs.,2018,NCBA,0,Balance Sheet
+Real Estate Other Than Bank Premises,2018,NCBA,0,Balance Sheet
+"Net Property, Plant & Equipment",2018,NCBA,1370,Balance Sheet
+Other Assets (Including Intangibles),2018,NCBA,5017,Balance Sheet
+Other Assets,2018,NCBA,3188,Balance Sheet
+Intangible Assets,2018,NCBA,1829,Balance Sheet
+Deferred Charges,2018,NCBA,843,Balance Sheet
+Total Assets,2018,NCBA,208407,Balance Sheet
+Total Cash & Due from Banks,2019,NCBA,37730,Balance Sheet
+Investments - Total,2019,NCBA,146612,Balance Sheet
+Trading Account Securities,2019,NCBA,0,Balance Sheet
+Treasury Securities,2019,NCBA,137039,Balance Sheet
+Other Securities,2019,NCBA,9492,Balance Sheet
+Net Loans,2019,NCBA,274442,Balance Sheet
+Commercial & Industrial Loans,2019,NCBA,0,Balance Sheet
+Consumer & Installment Loans,2019,NCBA,41083,Balance Sheet
+Interbank Loans,2019,NCBA,25556,Balance Sheet
+Real Estate Mortgage Loans,2019,NCBA,0,Balance Sheet
+Unspecified/Other Loans,2019,NCBA,0,Balance Sheet
+Loan Loss Allowances (Reserves),2019,NCBA,-22457,Balance Sheet
+Investment in Unconsolidated Subs.,2019,NCBA,3769,Balance Sheet
+Real Estate Other Than Bank Premises,2019,NCBA,1065,Balance Sheet
+"Net Property, Plant & Equipment",2019,NCBA,6631,Balance Sheet
+Other Assets (Including Intangibles),2019,NCBA,17384,Balance Sheet
+Other Assets,2019,NCBA,10375,Balance Sheet
+Intangible Assets,2019,NCBA,7009,Balance Sheet
+Deferred Charges,2019,NCBA,523,Balance Sheet
+Total Assets,2019,NCBA,494717,Balance Sheet
+Total Cash & Due from Banks,2020,NCBA,34860,Balance Sheet
+Investments - Total,2020,NCBA,165331,Balance Sheet
+Trading Account Securities,2020,NCBA,0,Balance Sheet
+Treasury Securities,2020,NCBA,158182,Balance Sheet
+Other Securities,2020,NCBA,7060,Balance Sheet
+Net Loans,2020,NCBA,289171,Balance Sheet
+Commercial & Industrial Loans,2020,NCBA,0,Balance Sheet
+Consumer & Installment Loans,2020,NCBA,48286,Balance Sheet
+Interbank Loans,2020,NCBA,41664,Balance Sheet
+Real Estate Mortgage Loans,2020,NCBA,0,Balance Sheet
+Unspecified/Other Loans,2020,NCBA,0,Balance Sheet
+Loan Loss Allowances (Reserves),2020,NCBA,-30945,Balance Sheet
+Investment in Unconsolidated Subs.,2020,NCBA,3917,Balance Sheet
+Real Estate Other Than Bank Premises,2020,NCBA,986,Balance Sheet
+"Net Property, Plant & Equipment",2020,NCBA,5274,Balance Sheet
+Other Assets (Including Intangibles),2020,NCBA,18699,Balance Sheet
+Other Assets,2020,NCBA,12218,Balance Sheet
+Intangible Assets,2020,NCBA,6480,Balance Sheet
+Deferred Charges,2020,NCBA,522,Balance Sheet
+Total Assets,2020,NCBA,527868,Balance Sheet
+Total Cash & Due from Banks,2021,NCBA,43423,Balance Sheet
+Investments - Total,2021,NCBA,222392,Balance Sheet
+Trading Account Securities,2021,NCBA,0,Balance Sheet
+Treasury Securities,2021,NCBA,209451,Balance Sheet
+Other Securities,2021,NCBA,12844,Balance Sheet
+Net Loans,2021,NCBA,286583,Balance Sheet
+Commercial & Industrial Loans,2021,NCBA,0,Balance Sheet
+Consumer & Installment Loans,2021,NCBA,44033,Balance Sheet
+Interbank Loans,2021,NCBA,45119,Balance Sheet
+Real Estate Mortgage Loans,2021,NCBA,0,Balance Sheet
+Unspecified/Other Loans,2021,NCBA,0,Balance Sheet
+Loan Loss Allowances (Reserves),2021,NCBA,-30807,Balance Sheet
+Investment in Unconsolidated Subs.,2021,NCBA,3956,Balance Sheet
+Real Estate Other Than Bank Premises,2021,NCBA,959,Balance Sheet
+"Net Property, Plant & Equipment",2021,NCBA,4503,Balance Sheet
+Other Assets (Including Intangibles),2021,NCBA,17439,Balance Sheet
+Other Assets,2021,NCBA,11322,Balance Sheet
+Intangible Assets,2021,NCBA,6117,Balance Sheet
+Deferred Charges,2021,NCBA,522,Balance Sheet
+Total Assets,2021,NCBA,591088,Balance Sheet
+Total Cash & Due from Banks,2022,NCBA,39028,Balance Sheet
+Investments - Total,2022,NCBA,232637,Balance Sheet
+Trading Account Securities,2022,NCBA,0,Balance Sheet
+Treasury Securities,2022,NCBA,222451,Balance Sheet
+Other Securities,2022,NCBA,10168,Balance Sheet
+Net Loans,2022,NCBA,301726,Balance Sheet
+Commercial & Industrial Loans,2022,NCBA,0,Balance Sheet
+Consumer & Installment Loans,2022,NCBA,30923,Balance Sheet
+Interbank Loans,2022,NCBA,25693,Balance Sheet
+Real Estate Mortgage Loans,2022,NCBA,0,Balance Sheet
+Unspecified/Other Loans,2022,NCBA,0,Balance Sheet
+Loan Loss Allowances (Reserves),2022,NCBA,-21147,Balance Sheet
+Investment in Unconsolidated Subs.,2022,NCBA,4070,Balance Sheet
+Real Estate Other Than Bank Premises,2022,NCBA,1049,Balance Sheet
+"Net Property, Plant & Equipment",2022,NCBA,4249,Balance Sheet
+Other Assets (Including Intangibles),2022,NCBA,26603,Balance Sheet
+Other Assets,2022,NCBA,20759,Balance Sheet
+Intangible Assets,2022,NCBA,5844,Balance Sheet
+Deferred Charges,2022,NCBA,522,Balance Sheet
+Total Assets,2022,NCBA,619662,Balance Sheet
+Total Cash & Due from Banks,2018,KCB,47666,Balance Sheet
+Investments - Total,2018,KCB,120979,Balance Sheet
+Trading Account Securities,2018,KCB,0,Balance Sheet
+Treasury Securities,2018,KCB,117446,Balance Sheet
+Other Securities,2018,KCB,3533,Balance Sheet
+Net Loans,2018,KCB,491549,Balance Sheet
+Commercial & Industrial Loans,2018,KCB,476529,Balance Sheet
+Consumer & Installment Loans,2018,KCB,0,Balance Sheet
+Interbank Loans,2018,KCB,15020,Balance Sheet
+Real Estate Mortgage Loans,2018,KCB,0,Balance Sheet
+Unspecified/Other Loans,2018,KCB,0,Balance Sheet
+Loan Loss Allowances (Reserves),2018,KCB,0,Balance Sheet
+Investment in Unconsolidated Subs.,2018,KCB,0,Balance Sheet
+Real Estate Other Than Bank Premises,2018,KCB,0,Balance Sheet
+"Net Property, Plant & Equipment",2018,KCB,11007,Balance Sheet
+Other Assets (Including Intangibles),2018,KCB,34436,Balance Sheet
+Other Assets,2018,KCB,31433,Balance Sheet
+Intangible Assets,2018,KCB,3003,Balance Sheet
+Deferred Charges,2018,KCB,6591,Balance Sheet
+Total Assets,2018,KCB,714313,Balance Sheet
+Total Cash & Due from Banks,2019,KCB,64938,Balance Sheet
+Investments - Total,2019,KCB,169242,Balance Sheet
+Trading Account Securities,2019,KCB,1651,Balance Sheet
+Treasury Securities,2019,KCB,163636,Balance Sheet
+Other Securities,2019,KCB,3955,Balance Sheet
+Net Loans,2019,KCB,580023,Balance Sheet
+Commercial & Industrial Loans,2019,KCB,581058,Balance Sheet
+Consumer & Installment Loans,2019,KCB,0,Balance Sheet
+Interbank Loans,2019,KCB,-1035,Balance Sheet
+Real Estate Mortgage Loans,2019,KCB,0,Balance Sheet
+Unspecified/Other Loans,2019,KCB,0,Balance Sheet
+Loan Loss Allowances (Reserves),2019,KCB,0,Balance Sheet
+Investment in Unconsolidated Subs.,2019,KCB,0,Balance Sheet
+Real Estate Other Than Bank Premises,2019,KCB,0,Balance Sheet
+"Net Property, Plant & Equipment",2019,KCB,20291,Balance Sheet
+Other Assets (Including Intangibles),2019,KCB,51217,Balance Sheet
+Other Assets,2019,KCB,44880,Balance Sheet
+Intangible Assets,2019,KCB,6337,Balance Sheet
+Deferred Charges,2019,KCB,6659,Balance Sheet
+Total Assets,2019,KCB,898572,Balance Sheet
+Total Cash & Due from Banks,2020,KCB,65258,Balance Sheet
+Investments - Total,2020,KCB,210784,Balance Sheet
+Trading Account Securities,2020,KCB,0,Balance Sheet
+Treasury Securities,2020,KCB,210170,Balance Sheet
+Other Securities,2020,KCB,614,Balance Sheet
+Net Loans,2020,KCB,618961,Balance Sheet
+Commercial & Industrial Loans,2020,KCB,0,Balance Sheet
+Consumer & Installment Loans,2020,KCB,587165,Balance Sheet
+Interbank Loans,2020,KCB,23706,Balance Sheet
+Real Estate Mortgage Loans,2020,KCB,69611,Balance Sheet
+Unspecified/Other Loans,2020,KCB,3396,Balance Sheet
+Loan Loss Allowances (Reserves),2020,KCB,-64917,Balance Sheet
+Investment in Unconsolidated Subs.,2020,KCB,600,Balance Sheet
+Real Estate Other Than Bank Premises,2020,KCB,6035,Balance Sheet
+"Net Property, Plant & Equipment",2020,KCB,20088,Balance Sheet
+Other Assets (Including Intangibles),2020,KCB,48437,Balance Sheet
+Other Assets,2020,KCB,42938,Balance Sheet
+Intangible Assets,2020,KCB,5499,Balance Sheet
+Deferred Charges,2020,KCB,6810,Balance Sheet
+Total Assets,2020,KCB,987810,Balance Sheet
+Total Cash & Due from Banks,2021,KCB,72507,Balance Sheet
+Investments - Total,2021,KCB,276293,Balance Sheet
+Trading Account Securities,2021,KCB,0,Balance Sheet
+Treasury Securities,2021,KCB,276283,Balance Sheet
+Other Securities,2021,KCB,10,Balance Sheet
+Net Loans,2021,KCB,702123,Balance Sheet
+Commercial & Industrial Loans,2021,KCB,0,Balance Sheet
+Consumer & Installment Loans,2021,KCB,641708,Balance Sheet
+Interbank Loans,2021,KCB,26642,Balance Sheet
+Real Estate Mortgage Loans,2021,KCB,99857,Balance Sheet
+Unspecified/Other Loans,2021,KCB,3662,Balance Sheet
+Loan Loss Allowances (Reserves),2021,KCB,-69746,Balance Sheet
+Investment in Unconsolidated Subs.,2021,KCB,402,Balance Sheet
+Real Estate Other Than Bank Premises,2021,KCB,10666,Balance Sheet
+"Net Property, Plant & Equipment",2021,KCB,21855,Balance Sheet
+Other Assets (Including Intangibles),2021,KCB,33444,Balance Sheet
+Other Assets,2021,KCB,26434,Balance Sheet
+Intangible Assets,2021,KCB,7010,Balance Sheet
+Deferred Charges,2021,KCB,9935,Balance Sheet
+Total Assets,2021,KCB,1139672,Balance Sheet
+Total Cash & Due from Banks,2022,KCB,95178,Balance Sheet
+Investments - Total,2022,KCB,295423,Balance Sheet
+Trading Account Securities,2022,KCB,0,Balance Sheet
+Treasury Securities,2022,KCB,293303,Balance Sheet
+Other Securities,2022,KCB,2120,Balance Sheet
+Net Loans,2022,KCB,1026900,Balance Sheet
+Commercial & Industrial Loans,2022,KCB,0,Balance Sheet
+Consumer & Installment Loans,2022,KCB,828617,Balance Sheet
+Interbank Loans,2022,KCB,163632,Balance Sheet
+Real Estate Mortgage Loans,2022,KCB,103548,Balance Sheet
+Unspecified/Other Loans,2022,KCB,2588,Balance Sheet
+Loan Loss Allowances (Reserves),2022,KCB,-71485,Balance Sheet
+Investment in Unconsolidated Subs.,2022,KCB,1077,Balance Sheet
+Real Estate Other Than Bank Premises,2022,KCB,12601,Balance Sheet
+"Net Property, Plant & Equipment",2022,KCB,29851,Balance Sheet
+Other Assets (Including Intangibles),2022,KCB,67242,Balance Sheet
+Other Assets,2022,KCB,46027,Balance Sheet
+Intangible Assets,2022,KCB,21215,Balance Sheet
+Deferred Charges,2022,KCB,11623,Balance Sheet
+Total Assets,2022,KCB,1554030,Balance Sheet
